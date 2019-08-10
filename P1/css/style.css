@@ -1,0 +1,223 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font-family: 'Raleway', sans-serif;	
+	
+}
+header{
+	width:100%;
+	height:110px;
+	background-color:#000;
+}
+.heading h1{
+	color:#fff;
+	font-size:60px;
+	padding:20px;
+	margin-left:10px;
+}
+.heading i{
+	color:#fff;
+	position:absolute;
+	top:48px;
+	left:355px;
+	font-size: 30px;
+}
+.menu{
+	float:right;
+}
+.menu ul li{
+	list-style:none;
+	display:inline-block;
+	position:relative;
+	top:-80px;
+}
+.corner{
+	margin-right:20px;
+}
+.menu ul li a{
+	text-decoration:none;
+	font-size:35px;
+    padding:8px;
+    color:#fff;
+}
+.menu ul li a:hover{
+	color:orange;
+}
+#current a {
+	color:orange;
+}
+section{
+	width:100%;
+	
+}
+section .main_heading{
+	height:600px;
+	background:url(../images/pgr.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+	border-top:2px solid #fff;
+}
+.main_heading h1{
+	font-size:80px;
+	margin-top:200px;
+	padding:10px;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+}
+.main_heading p{
+	text-align: center;
+	color:skyblue;
+	font-size:30px;
+}
+.user_exp{
+	width:100%;
+	height:auto;
+	background-color:skyblue;
+	border-top:5px solid #fff;
+	border-bottom:5px solid #000;
+}
+.user_exp p{
+	width:75%;
+	margin:auto;
+	padding:80px 20px;
+	font-size:30px;
+	
+}
+.user_exp h2{
+	padding:10px;
+	text-align:right;
+	position:relative;
+	bottom:60px;
+	right:40px;
+
+}
+.our_work{
+	width:80%;
+	margin:auto;
+	margin-top:10px;
+	background-color: #000;
+    border-bottom:9px solid #000;
+}
+.work h2{
+	color:#000;
+	padding:15px;
+	font-size:45px;
+	background-color:orange;
+	border-bottom:2px solid #000;
+	border-top:2px solid #000;
+	text-align:left;
+
+}
+
+.imagess{
+	width:100%;
+	margin:auto;
+	margin-left:12px;
+	margin-top:12px;
+}
+.imagess img{
+	padding:3px;
+}
+.wrapp{
+	width:100%;
+	background-color:orange;
+	border-top:5px solid #fff;
+	border-bottom:5px solid #fff;
+}
+.my_team{
+	width:80%;
+	margin-left:170px;
+	height:400px;
+	
+}
+.row p{
+	width:150px;
+	text-align:left;
+	color:#fff;
+	margin-left:40px;
+}
+.row img{
+	border-radius:50%;
+	position:relative;
+	left:2px;
+	margin-left:35px;
+	margin-top:25px;
+}
+.my_team .row{
+	position:relative;
+	top:40px;
+	left:40px;
+	width:20%;
+	height:300px;
+	margin:10px auto;
+	float:left;
+	background-color:#000;
+	border:5px solid orange;
+    border-radius:10%;
+}
+footer{
+	width:100%;
+	height:300px;
+    background-color:gray;
+}
+footer h4{
+	text-align:center;
+	padding-top:20px;
+	font-size:50px;
+}
+.right{
+	width:60%;
+	margin:auto;
+    padding-top:-5px;
+}
+.row1{
+	padding: 10px;
+}
+.row1 i{
+float:left; 
+padding:5px;
+font-size:30px;
+position:relative;
+top:-7px;
+padding-right:10px;
+}
+#r1{
+	position:relative;
+    top:10px;
+    left:330px;
+}
+#r2{
+	position:relative;
+    left:250px;
+}
+#r3{
+	position:relative;
+    left:150px;
+    top:-7px;
+}
+.iconss{
+	margin-top:15px;
+	margin-left:270px;
+}
+.iconss ul li {
+	text-align: center;
+	list-style: none;
+	display:inline-block;
+
+
+}
+.iconss ul li a{
+	color:#fff;
+	padding:10px;
+	font-size:30px;
+	background:black;
+	border-radius:40%;
+	
+}
+.iconss ul li a:hover{
+	font-size:40px;
+}
+
